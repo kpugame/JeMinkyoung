@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  winAPI.cpp
+  keyManager.cpp
+  image.cpp
+  gameStudy.cpp
+  gameNode.cpp
+c:\users\third\desktop\winapi 내꺼\얍\160919 그림퍼즐\160919 그림퍼즐\gamenode.cpp(84): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\winapi 내꺼\얍\160919 그림퍼즐\160919 그림퍼즐\gamenode.cpp(85): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  winAPI.vcxproj -> C:\Users\third\Desktop\winAPI 내꺼\얍\160919 그림퍼즐\160919 그림퍼즐\Debug\winAPI.exe
