@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  winAPI.cpp
+  keyManager.cpp
+  gameStudy.cpp
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(147): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(152): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(170): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(175): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(180): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(201): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(205): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(248): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamestudy.cpp(250): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  gameNode.cpp
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamenode.cpp(74): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\third\desktop\이쁘니 빠망꺼\winapi\160909 에어하키\160909 에어하키\gamenode.cpp(75): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  winAPI.vcxproj -> C:\Users\third\Desktop\이쁘니 빠망꺼\winAPI\160909 에어하키\160909 에어하키\Debug\winAPI.exe
+  winAPI.vcxproj -> C:\Users\third\Desktop\이쁘니 빠망꺼\winAPI\160909 에어하키\160909 에어하키\Debug\winAPI.pdb (Full PDB)
